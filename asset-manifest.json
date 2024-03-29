@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/budgetPlanner_react/static/css/main.e16f9e0e.css",
+    "main.js": "/budgetPlanner_react/static/js/main.76e87558.js",
+    "static/js/453.54da2868.chunk.js": "/budgetPlanner_react/static/js/453.54da2868.chunk.js",
+    "index.html": "/budgetPlanner_react/index.html",
+    "main.e16f9e0e.css.map": "/budgetPlanner_react/static/css/main.e16f9e0e.css.map",
+    "main.76e87558.js.map": "/budgetPlanner_react/static/js/main.76e87558.js.map",
+    "453.54da2868.chunk.js.map": "/budgetPlanner_react/static/js/453.54da2868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16f9e0e.css",
+    "static/js/main.76e87558.js"
+  ]
+}
