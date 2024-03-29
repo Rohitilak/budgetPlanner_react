@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.main__container{
+    /* border: 2px solid black; */
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1,h3{
+    text-shadow: 0px 0px 10px blueviolet;
+}
+h3{
+    font-size: 30px;
+}
+
+.myContainer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    /* border: 2px solid black; */
+}
+
+.container__add__item {
+    display: flex;
+    gap: 10rem;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    padding: 0px 10px;
+    height: 50px;
+    background-color:rgb(8, 199, 97);
+}
+.container__add__form {
+    display: flex;
+    gap: 8rem;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.cal__container {
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.budget__clr_name1 {
+    color: #ddddf0;
+    padding: 5px;
+    background-color: rgb(112, 19, 212);
+    padding: 20px 30px;
+}
+.budget__clr_name2 {
+    color: #241f1f;
+    padding: 5px;
+    background-color: rgb(194, 13, 13);
+    padding: 20px 30px;
+}
+.budget__clr_name3 {
+    color: #1518eb;
+    padding: 5px;
+    background-color: rgb(26, 206, 47);
+    padding: 20px 30px;
+}
+
+h3{
+    text-align: start;
+}
+
+
+.btn__submit{
+    background-color: #c7c119;
+    color: #242121;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    padding: 15px 40px;
+  }
+
+  .container__expenses{
+    color: #1e1aeb;
+  }
+
+
+  .input{
+    width: 300px;
+    height: 30px;
+    border: none;
+    background-color: lemonchiffon;
+    border: 0.1px solid black;
+  }
+  h2{
+    text-align: start;
+    text-shadow: 0px 0px 10px blueviolet;
+    font-size: 30px;
+  }
